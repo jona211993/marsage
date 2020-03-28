@@ -1,0 +1,14 @@
+.negro{
+    color: black;
+     font-size: 120px;
+     background: rgba(228, 201, 50, 0.753);
+     margin-left:350px ;
+     margin-right:380px ;
+}
+.verde{
+
+    color: rgb(14, 138, 27);
+    background-color: brown;
+     font-size: 30px;
+    padding: 100px;
+}

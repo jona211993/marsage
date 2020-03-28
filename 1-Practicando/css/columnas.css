@@ -1,0 +1,15 @@
+nav
+{   
+ background: #696bc0;
+ font-size: 30px;
+}
+.columna{
+    color: darksalmon;
+    background: deeppink;
+    padding: 25px;
+    width: 25%;
+    margin: 10px;
+}
+.padre{
+    display: flex;
+}

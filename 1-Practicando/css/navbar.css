@@ -1,0 +1,23 @@
+.nav-enlace{
+    display: inline-block;
+   color: #f0efef;
+   background: #142850;
+   padding: 10px 30px;
+   margin: 10px;
+   text-decoration: none;
+}
+.nav-enlace:hover{
+    background: dimgrey;
+}
+nav{
+    background-color: #b9cced;
+    display: flex;
+    justify-content: space-around;
+
+}
+@media (max-width: 550px){
+    nav{ 
+        background: rgb(127, 127, 196);
+        flex-direction: column;
+    }
+}
